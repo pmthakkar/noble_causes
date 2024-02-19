@@ -1,0 +1,21 @@
+.img-fluid {
+    margin-top: 72px;
+    max-width: 100%;
+    height: auto;
+}
+.button{
+    font-size:15px;
+    text-decoration: none;
+    background-color: #3E8DA8;
+    color:#fff;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+.button:hover{
+    border: 1px solid grey;
+    background-color: #62b1cb;
+
+}
+.card{
+    background-color: #e2e2e2;
+}
